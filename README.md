@@ -50,4 +50,4 @@
 
 ## 🔗 Ссылки
 *   **Интерактивный дашборд:** [Смотреть в DataLens](https://datalens.ru/nmcxlrw1w00q7-dashbord-telekom?state=51359429185&utm_referrer=about%3Ablank)
-*   **Ноутбук с кодом:** [Открыть .ipynb]()
+*   **Ноутбук с кодом:** [Открыть .ipynb](https://github.com/Elena-Kazakova-analyst/project-dataset-telecom/blob/main/telecom_data_analysis.ipynb)
