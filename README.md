@@ -47,7 +47,9 @@
 > **💡 Эффективность фильтра:** Использование фильтра аномалий исключило **358 нетипичных записей**, что повысило точность расчета ARPU на **~12%**.
 
 ---
+<img width="1272" height="600" alt="дашборд-телеком" src="https://github.com/user-attachments/assets/56d38596-f320-4ee0-97dd-4de0f7ec2ccf" />
 
 ## 🔗 Ссылки
+
 *   **Интерактивный дашборд:** [Смотреть в DataLens](https://datalens.ru/nmcxlrw1w00q7-dashbord-telekom?state=51359429185&utm_referrer=about%3Ablank)
 *   **Ноутбук с кодом:** [Открыть .ipynb](https://github.com/Elena-Kazakova-analyst/project-dataset-telecom/blob/main/telecom_data_analysis.ipynb)
